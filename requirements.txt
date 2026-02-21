@@ -1,0 +1,12 @@
+streamlit
+langchain-community
+chromadb
+sentence-transformers
+pypdf
+ddgs
+groq
+tiktoken
+python-dotenv
+python-docx
+pandas
+openpyxl
